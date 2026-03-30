@@ -113,7 +113,7 @@ const zakbot = {
 
 [![Website](https://img.shields.io/badge/zakaria--kone.com-FF6B35?style=for-the-badge&logo=safari&logoColor=white)](https://zakaria-kone.com)
 [![X](https://img.shields.io/badge/@zakariadev000-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zakariadev000)
-[![LinkedIn](https://img.shields.io/badge/zakariadev000-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakariadev000)
+[![LinkedIn](https://img.shields.io/badge/zakariadev000-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakariadev000)
 [![Facebook](https://img.shields.io/badge/zakariadev000-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/zakariadev000)
 [![Instagram](https://img.shields.io/badge/zakariadev000-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zakariadev000)
 [![TikTok](https://img.shields.io/badge/zakariadev000-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@zakariadev000)
